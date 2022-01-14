@@ -1,0 +1,3 @@
+time.sleep=86370
+time.wait=5
+time.preset=0
