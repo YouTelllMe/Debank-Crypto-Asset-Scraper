@@ -1,4 +1,3 @@
-from os import X_OK
 from selenium import webdriver
 from selenium.webdriver import chrome
 from selenium.webdriver.common.keys import Keys
@@ -6,9 +5,6 @@ from selenium.webdriver.chrome import options
 from datetime import datetime
 import time
 import string
-import requests
-from bs4 import BeautifulSoup
-import zipfile
 import smtplib
 from selenium.webdriver.chrome.service import Service
 
